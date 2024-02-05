@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+        <!-- Primary Color -->
+        <color name="primary">#FF007bff</color>
+        <!-- Secondary Color -->
+        <color name="secondary">#FF6c757d</color>
+
+        <!-- Success Color -->
+        <color name="success">#FF28a745</color>
+
+        <!-- Danger Color -->
+        <color name="danger">#FFdc3545</color>
+
+        <!-- Warning Color -->
+        <color name="warning">#FFffc107</color>
+
+        <!-- Info Color -->
+        <color name="info">#FF17a2b8</color>
+
+        <!-- Light Color -->
+        <color name="light">#FFf8f9fa</color>
+
+        <!-- Dark Color -->
+        <color name="dark">#FF343a40</color>
+
+        <color name="medyoWhite">#FFF0F0F0</color>
+        <color name="gray">#FFCCCCCC</color>
+</resources>
