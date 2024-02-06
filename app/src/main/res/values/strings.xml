@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Login</string>
+    <!-- Add other strings here -->
+
+    <string name="submit_button_text">Submit</string>
+    <string name="take_picture_button_text">Take Picture </string>
+    <string name="plus_button_description">Plus</string>
+    <string name="app_name">SlamBook</string>
+
 </resources>
